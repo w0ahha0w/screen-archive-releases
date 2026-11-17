@@ -1,26 +1,32 @@
 {
-  "name": "Screen Archive Updates",
+  "name": "Screen Archive",
   "identifier": "com.w0ahha0w.screenarchive.source",
-  "subtitle": "Private on-device screenshot archive",
-  "description": "Official unsigned IPA updates for Screen Archive. Source code is private.",
   "sourceURL": "https://raw.githubusercontent.com/w0ahha0w/screen-archive-releases/main/screen-archive/source.json",
-  "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.3-build.3/ScreenArchive-icon.png",
+  "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.4-build.4/ScreenArchive-icon.png",
   "tintColor": "#E89AB5",
   "apps": [
     {
       "name": "Screen Archive",
       "bundleIdentifier": "com.w0ahha0w.screenarchive",
       "developerName": "WOAH",
-      "subtitle": "5-second automatic screen archive",
-      "localizedDescription": "아이폰 화면을 5초마다 앱 내부 갤러리에 저장합니다. 사진은 기본 사진 앱이나 서버로 전송하지 않습니다.",
-      "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.3-build.3/ScreenArchive-icon.png",
+      "localizedDescription": "화면 기록",
+      "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.4-build.4/ScreenArchive-icon.png",
       "tintColor": "#E89AB5",
       "category": "photo-video",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "versionDate": "2026-11-17",
-      "size": 155936,
-      "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.3-build.3/ScreenArchive-unsigned.ipa",
+      "size": 155937,
+      "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.4-build.4/ScreenArchive-unsigned.ipa",
       "versions": [
+        {
+          "version": "0.3.4",
+          "buildVersion": "4",
+          "date": "2026-11-17",
+          "localizedDescription": "화면 정리",
+          "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.4-build.4/ScreenArchive-unsigned.ipa",
+          "size": 155937,
+          "minOSVersion": "27.0"
+        },
         {
           "version": "0.3.3",
           "buildVersion": "3",
