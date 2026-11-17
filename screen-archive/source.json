@@ -2,7 +2,7 @@
   "name": "Screen Archive",
   "identifier": "com.w0ahha0w.screenarchive.source",
   "sourceURL": "https://raw.githubusercontent.com/w0ahha0w/screen-archive-releases/main/screen-archive/source.json",
-  "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.8-build.8/ScreenArchive-icon.png",
+  "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.9-build.9/ScreenArchive-icon.png",
   "tintColor": "#E89AB5",
   "apps": [
     {
@@ -10,14 +10,23 @@
       "bundleIdentifier": "com.w0ahha0w.screenarchive",
       "developerName": "WOAH",
       "localizedDescription": "화면 기록",
-      "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.8-build.8/ScreenArchive-icon.png",
+      "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.9-build.9/ScreenArchive-icon.png",
       "tintColor": "#E89AB5",
       "category": "photo-video",
-      "version": "0.3.8",
+      "version": "0.3.9",
       "versionDate": "2026-11-17",
-      "size": 183497,
-      "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.8-build.8/ScreenArchive-unsigned.ipa",
+      "size": 183764,
+      "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.9-build.9/ScreenArchive-unsigned.ipa",
       "versions": [
+        {
+          "version": "0.3.9",
+          "buildVersion": "9",
+          "date": "2026-11-17",
+          "localizedDescription": "화면 정리",
+          "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.9-build.9/ScreenArchive-unsigned.ipa",
+          "size": 183764,
+          "minOSVersion": "27.0"
+        },
         {
           "version": "0.3.8",
           "buildVersion": "8",
