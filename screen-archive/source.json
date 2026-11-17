@@ -1,0 +1,43 @@
+{
+  "name": "Screen Archive Updates",
+  "identifier": "com.w0ahha0w.screenarchive.source",
+  "subtitle": "Private on-device screenshot archive",
+  "description": "Official unsigned IPA updates for Screen Archive. Source code is private.",
+  "sourceURL": "https://raw.githubusercontent.com/w0ahha0w/screen-archive-releases/main/screen-archive/source.json",
+  "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.2-build.2/ScreenArchive-icon.png",
+  "tintColor": "#E89AB5",
+  "apps": [
+    {
+      "name": "Screen Archive",
+      "bundleIdentifier": "com.w0ahha0w.screenarchive",
+      "developerName": "WOAH",
+      "subtitle": "5-second automatic screen archive",
+      "localizedDescription": "아이폰 화면을 5초마다 앱 내부 갤러리에 저장합니다. 사진은 기본 사진 앱이나 서버로 전송하지 않습니다.",
+      "iconURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.2-build.2/ScreenArchive-icon.png",
+      "tintColor": "#E89AB5",
+      "category": "photo-video",
+      "version": "0.3.2",
+      "versionDate": "2026-11-17",
+      "size": 164349,
+      "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.2-build.2/ScreenArchive-unsigned.ipa",
+      "versions": [
+        {
+          "version": "0.3.2",
+          "buildVersion": "2",
+          "date": "2026-11-17",
+          "localizedDescription": "메인 화면을 간결하게 정리하고, 카메라처럼 왼쪽 아래 갤러리로 이동합니다. 전체 선택 및 선택 삭제를 지원합니다.",
+          "downloadURL": "https://github.com/w0ahha0w/screen-archive-releases/releases/download/screenarchive-v0.3.2-build.2/ScreenArchive-unsigned.ipa",
+          "size": 164349,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSScreenCaptureUsageDescription": "화면을 5초마다 이미지로 기록하기 위해 화면 캡처 권한이 필요합니다."
+        }
+      }
+    }
+  ],
+  "news": []
+}
